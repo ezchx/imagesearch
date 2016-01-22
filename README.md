@@ -8,4 +8,4 @@ Entering "latest" at the end of url returns the last 5 search terms with timesta
 
 Entering an offset (?offset="value") after the search string enables the user to skip the first (offset #) of search items for pagination.
 
-The code is PHP and MySQL.
+PHP and MySQL.
